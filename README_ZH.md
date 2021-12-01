@@ -1,0 +1,41 @@
+# sites
+有用的网站收藏
+
+## 语言
+* [en](/README.md)
+* [zh](/README_ZH.md)
+
+
+## 免费的视频/音乐解析下载网站
+* YouTube油管 视频解析及下载: [ahamega.com/youtube](https://ahamega.com/youtube)
+* TikTok 视频解析及下载(无水印): [ahamega.com/tiktok](https://ahamega.com/tiktok)
+* Instagram 视频解析及下载: [ahamega.com/instagram](https://ahamega.com/instagram)
+* Twitter推特 视频解析及下载 [ahamega.com/twitter](https://ahamega.com/twitter)
+* Facebook脸书 视频解析及下载: [ahamega.com/facebook](https://ahamega.com/facebook)
+* Tumblr 视频解析及下载: [ahamega.com/tumblr](https://ahamega.com/tumblr)
+* Snapchat 视频解析及下载: [ahamega.com/snapchat](https://ahamega.com/snapchat)
+* Twitch 视频解析及下载: [ahamega.com/twitch](https://ahamega.com/twitch)
+* Pinterest 视频解析及下载: [ahamega.com/pinterest](https://ahamega.com/pinterest)
+* Reddit 视频解析及下载: [ahamega.com/reddit](https://ahamega.com/reddit)
+* Odysee 视频解析及下载: [ahamega.com/odysee](https://ahamega.com/odysee)
+* TED 视频解析及下载: [ahamega.com/ted](https://ahamega.com/ted)
+* WWE 视频解析及下载: [ahamega.com/wwe](https://ahamega.com/wwe)
+* Imgur 视频解析及下载: [ahamega.com/imgur](https://ahamega.com/imgur)
+* IMDb 视频解析及下载: [ahamega.com/imdb](https://ahamega.com/imdb)
+* SoundCloud 音乐解析及下载: [ahamega.com/soundcloud](https://ahamega.com/soundcloud)
+* VK 视频解析及下载: [ahamega.com/vk](https://ahamega.com/vk)
+* Vimeo 视频解析及下载: [ahamega.com/vimeo](https://ahamega.com/vimeo)
+* Pixabay 视频解析及下载: [ahamega.com/pixabay](https://ahamega.com/pixabay)
+* SnackVideo 视频解析及下载: [ahamega.com/snackvideo](https://ahamega.com/snackvideo)
+* Moj 视频解析及下载: [ahamega.com/moj](https://ahamega.com/moj)
+* LinkedIn领英 视频解析及下载: [ahamega.com/linkedin](https://ahamega.com/linkedin)
+* AcFun A站 视频解析及下载: [leesoar.com/acfun](https://leesoar.com/acfun)
+* Bilibili B站 视频解析及下载: [leesoar.com/bilibili](https://leesoar.com/bilibili)
+* 快手 视频解析及下载: [leesoar.com/kwai](https://leesoar.com/kwai)
+* 抖音 视频解析及下载: [leesoar.com/aweme](https://leesoar.com/aweme)
+* 网易云音乐 解析及下载: [leesoar.com/netease_music](https://leesoar.com/netease_music)
+* 皮皮虾 视频解析及下载: [leesoar.com/pipix](https://leesoar.com/pipix)
+* 西瓜视频 解析及下载: [leesoar.com/ixigua](https://leesoar.com/ixigua)
+* 今日头条 视频解析及下载: [leesoar.com/toutiao](https://leesoar.com/toutiao)
+* 优酷 视频解析及下载: [leesoar.com/youku](https://leesoar.com/youku)
+* 腾讯视频/新闻 解析及下载: [leesoar.com/tencent](https://leesoar.com/tencent)
