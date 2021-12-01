@@ -37,4 +37,4 @@ Useful site collection
 * Xigua video parse & download: [leesoar.com/ixigua](https://leesoar.com/ixigua)
 * Toutiao video parse & download: [leesoar.com/toutiao](https://leesoar.com/toutiao)
 * Youku video parse & download: [leesoar.com/youku](https://leesoar.com/youku)
-* Tencent(China) video parse & download: [leesoar.com/tencent](https://leesoar.com/tencent)
+* Tencent(China) video parse & download: [leesoar.com/tencent/video](https://leesoar.com/tencent/video)
