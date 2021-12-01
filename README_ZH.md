@@ -38,4 +38,4 @@
 * 西瓜视频 解析及下载: [leesoar.com/ixigua](https://leesoar.com/ixigua)
 * 今日头条 视频解析及下载: [leesoar.com/toutiao](https://leesoar.com/toutiao)
 * 优酷 视频解析及下载: [leesoar.com/youku](https://leesoar.com/youku)
-* 腾讯视频/新闻 解析及下载: [leesoar.com/tencent](https://leesoar.com/tencent)
+* 腾讯视频/新闻 解析及下载: [leesoar.com/tencent/video](https://leesoar.com/tencent/video)
