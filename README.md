@@ -1,0 +1,2 @@
+# sites
+Useful site collection
