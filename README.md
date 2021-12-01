@@ -2,8 +2,8 @@
 Useful site collection
 
 ## Language
-* [zh](/README_ZH.md)
 * [en](/README.md)
+* [zh](/README_ZH.md)
 
 ## Free Video/Music Parse and Download
 * YouTube video parse & download: [ahamega.com/youtube](https://ahamega.com/youtube)
